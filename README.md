@@ -11,13 +11,17 @@ ChipNet is an Real-Time LiDAR based solution for Drivable Region Segmentation. T
 
 ## Publications
 If you use this work in an academic context, please cite the following publication:  
-> Lyu, Yecheng, Lin Bai, and Xinming Huang. "ChipNet: Real-Time LiDAR Processing for Drivable Region Segmentation on an FPGA." arXiv preprint arXiv:1808.03506 (2018).
+> Lyu, Yecheng, Lin Bai, and Xinming Huang. "Chipnet: Real-time lidar processing for drivable region segmentation on an fpga." IEEE Transactions on Circuits and Systems I: Regular Papers 66.5 (2018): 1769-1779.
 ```
 @article{lyu2018chipnet,
-  title={ChipNet: Real-Time LiDAR Processing for Drivable Region Segmentation on an FPGA},
-  author={Lyu, Yechng and Bai, Lin and Huang, Xinming},
-  journal={arXiv preprint arXiv:1808.03506},
-  year={2018}
+  title={Chipnet: Real-time lidar processing for drivable region segmentation on an fpga},
+  author={Lyu, Yecheng and Bai, Lin and Huang, Xinming},
+  journal={IEEE Transactions on Circuits and Systems I: Regular Papers},
+  volume={66},
+  number={5},
+  pages={1769--1779},
+  year={2018},
+  publisher={IEEE}
 }
 ```
 
